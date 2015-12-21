@@ -1,0 +1,23 @@
+slides at: gayle.com -> events -> ctrl f 'facebook'
+
+System design:
+    use diagrams
+    top-down (high level first, then specifics)
+
+Implement:
+Merge sort
+Quick sort
+Tries
+
+Algos:
+Listen for clues; words they used that they didn't HAVE to
+Explain Brute Force/Naive solution but do not code it
+What's unnecessary? What's duplicated?
+
+
+Questions:
+Best place to find practice interview questions
+    careercup.com
+
+fbprep
+g@gayle.com
